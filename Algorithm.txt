@@ -47,4 +47,16 @@ Print "num1 is a divisor of num2"
  Print "December"
 Else:
 Print "Invalid month num"
-16 End
+16 
+
+//Question 3 
+
+1 Start
+2 Read num1,num2,operator
+3 if operator=='+' then Print "num1+num2"
+4 if operator=='-' then print "num1-num2"
+5 if operator=='*' then print "num1*num2"
+6 if operator=='/' then print "num1/num2"
+7 if operator=='%' then print "num1%num2"
+8 else print "enter a valid operator"
+9 Stop
