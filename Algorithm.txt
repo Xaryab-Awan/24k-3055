@@ -1,0 +1,50 @@
+//Question1 
+
+1 Start
+2 Input num1
+3 Input num2
+4 If num1% num2 == 0 then:
+Print "num1 is a divisor of num2"
+5 If num1 % 2 == 0 then:
+ Print "num1 is an even number"
+6 Else:
+ Print "num1 is an odd number"
+7 If num2 % 2 == 0 then:
+ Print "num2 is an even number"
+6 Else:
+ Print "num2 is an odd number"
+7 Else:
+ Print "N is not a divisor of n"
+9 End
+
+//Question2 
+
+1 Start
+2 Read num
+3 If num == 1 then:
+ Print "January"
+4 Else if num == 2 then:
+ Print "February"
+5 Else if num == 3 then:
+ Print "March"
+7 Else if num == 4 then:
+ Print "April"
+8 Else if num == 5 then:
+ Print "May"
+9 Else if num == 6 then:
+ Print "June"
+10 Else if num == 7 then:
+ Print "July"
+11 Else if num == 8 then:
+ Print "August"
+12 Else if num == 9 then:
+ Print "September"
+13 Else if num == 10 then:
+ Print "October"
+14 Else if num == 11 then:
+ Print "November"
+15 Else if num == 12 then:
+ Print "December"
+Else:
+Print "Invalid month num"
+16 End
