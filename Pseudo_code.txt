@@ -3,13 +3,12 @@
 2 INPUT num1
 3 INPUT num3
 4 Set max to 0
-5 else if num1>num2 and num1>num3 then set max to num1
+5 if num1>num2 and num1>num3 then set max to num1
 6 PRINT max
-7 else if num2>num1 and num2>num3 then set max to num2
+7 end if num2>num1 and num2>num3 then set max to num2
 8 PRINT max
-9 else if num1==num2==num3 then PRINT ALL numbers are equal
-10 else  PRINT num3 is max
-11 END
+9 else  PRINT num3 is max
+10 END
 
 //Question 2
 1 START
