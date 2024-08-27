@@ -14,7 +14,7 @@ Print "num1 is a divisor of num2"
 6 Else:
  Print "num2 is an odd number"
 7 Else:
- Print "N is not a divisor of n"
+ Print "num1 is not a divisor of num2"
 9 End
 
 //Question2 
@@ -47,7 +47,7 @@ Print "num1 is a divisor of num2"
  Print "December"
 Else:
 Print "Invalid month num"
-16 
+
 
 //Question 3 
 
